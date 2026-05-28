@@ -1,0 +1,18 @@
+{
+  "name": "backend-basics",
+  "version": "1.0.0",
+  "description": "The first learning of basic backend ",
+  "keywords": [
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Divyansh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
